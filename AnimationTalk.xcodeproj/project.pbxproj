@@ -35,15 +35,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		16208A281272268C0033B511 /* KeyFrameAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeyFrameAnimation.h; path = ../KeyFrameAnimation.h; sourceTree = "<group>"; };
-		16208A291272268C0033B511 /* KeyFrameAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeyFrameAnimation.m; path = ../KeyFrameAnimation.m; sourceTree = "<group>"; };
+		16208A281272268C0033B511 /* KeyFrameAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyFrameAnimation.h; sourceTree = "<group>"; };
+		16208A291272268C0033B511 /* KeyFrameAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyFrameAnimation.m; sourceTree = "<group>"; };
 		16208A2C127226AE0033B511 /* meiInTank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiInTank.png; sourceTree = "<group>"; };
 		16208A2D127226AE0033B511 /* meiTankSm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiTankSm.png; sourceTree = "<group>"; };
 		16208A38127227400033B511 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		16208A4812724B150033B511 /* UIKitAnimations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIKitAnimations.h; path = ../UIKitAnimations.h; sourceTree = "<group>"; };
 		16208A4912724B150033B511 /* UIKitAnimations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIKitAnimations.m; path = ../UIKitAnimations.m; sourceTree = "<group>"; };
-		16208B211272645C0033B511 /* CABasics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CABasics.h; path = ../CABasics.h; sourceTree = "<group>"; };
-		16208B221272645C0033B511 /* CABasics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CABasics.m; path = ../CABasics.m; sourceTree = "<group>"; };
+		16208B211272645C0033B511 /* CABasics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CABasics.h; sourceTree = "<group>"; };
+		16208B221272645C0033B511 /* CABasics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CABasics.m; sourceTree = "<group>"; };
 		16208B8F127298320033B511 /* AllYourBase.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AllYourBase.xib; sourceTree = "<group>"; };
 		163645D8127546B20078AFE1 /* floorSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = floorSmall.png; sourceTree = "<group>"; };
 		163645F412754F790078AFE1 /* StickyNote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StickyNote.h; path = ../StickyNote.h; sourceTree = "<group>"; };
@@ -52,22 +52,22 @@
 		163646D512756BDD0078AFE1 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		163646D812756BDE0078AFE1 /* SampleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleManager.h; sourceTree = "<group>"; };
 		163646D912756BDE0078AFE1 /* SampleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleManager.m; sourceTree = "<group>"; };
-		163647B01276062E0078AFE1 /* BasicAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BasicAnimation.h; path = ../BasicAnimation.h; sourceTree = "<group>"; };
-		163647B11276062E0078AFE1 /* BasicAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BasicAnimation.m; path = ../BasicAnimation.m; sourceTree = "<group>"; };
-		163648BD12767ADB0078AFE1 /* ChangePosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChangePosition.h; sourceTree = "<group>"; };
-		163648BE12767ADB0078AFE1 /* ChangePosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChangePosition.m; sourceTree = "<group>"; };
-		163648BF12767ADB0078AFE1 /* ChangePosition.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChangePosition.xib; sourceTree = "<group>"; };
-		163648C412767AE50078AFE1 /* ShadowPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowPath.h; sourceTree = "<group>"; };
-		163648C512767AE50078AFE1 /* ShadowPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShadowPath.m; sourceTree = "<group>"; };
-		163648C612767AE50078AFE1 /* ShadowPath.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ShadowPath.xib; sourceTree = "<group>"; };
-		1636497012769B570078AFE1 /* KeyFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyFrame.h; sourceTree = "<group>"; };
-		1636497112769B570078AFE1 /* KeyFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyFrame.m; sourceTree = "<group>"; };
-		1636497212769B570078AFE1 /* KeyFrame.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = KeyFrame.xib; sourceTree = "<group>"; };
-		163649F71276A1D90078AFE1 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainView.h; sourceTree = "<group>"; };
-		163649F81276A1D90078AFE1 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainView.m; sourceTree = "<group>"; };
+		163647B01276062E0078AFE1 /* BasicAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicAnimation.h; sourceTree = "<group>"; };
+		163647B11276062E0078AFE1 /* BasicAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicAnimation.m; sourceTree = "<group>"; };
+		163648BD12767ADB0078AFE1 /* ChangePosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChangePosition.h; path = Classes/ChangePosition.h; sourceTree = "<group>"; };
+		163648BE12767ADB0078AFE1 /* ChangePosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChangePosition.m; path = Classes/ChangePosition.m; sourceTree = "<group>"; };
+		163648BF12767ADB0078AFE1 /* ChangePosition.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ChangePosition.xib; path = Classes/ChangePosition.xib; sourceTree = "<group>"; };
+		163648C412767AE50078AFE1 /* ShadowPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ShadowPath.h; path = Classes/ShadowPath.h; sourceTree = "<group>"; };
+		163648C512767AE50078AFE1 /* ShadowPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ShadowPath.m; path = Classes/ShadowPath.m; sourceTree = "<group>"; };
+		163648C612767AE50078AFE1 /* ShadowPath.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ShadowPath.xib; path = Classes/ShadowPath.xib; sourceTree = "<group>"; };
+		1636497012769B570078AFE1 /* KeyFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeyFrame.h; path = Classes/KeyFrame.h; sourceTree = "<group>"; };
+		1636497112769B570078AFE1 /* KeyFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeyFrame.m; path = Classes/KeyFrame.m; sourceTree = "<group>"; };
+		1636497212769B570078AFE1 /* KeyFrame.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = KeyFrame.xib; path = Classes/KeyFrame.xib; sourceTree = "<group>"; };
+		163649F71276A1D90078AFE1 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainView.h; path = Classes/MainView.h; sourceTree = "<group>"; };
+		163649F81276A1D90078AFE1 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainView.m; path = Classes/MainView.m; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimationTalkAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimationTalkAppDelegate.m; sourceTree = "<group>"; };
+		1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AnimationTalkAppDelegate.h; path = Classes/AnimationTalkAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AnimationTalkAppDelegate.m; path = Classes/AnimationTalkAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* AnimationTalk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationTalk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -92,37 +92,78 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		080E96DDFE201D6D7F000001 /* Classes */ = {
+		080E96DDFE201D6D7F000001 /* UIKit Animations */ = {
+			isa = PBXGroup;
+			children = (
+				163645F412754F790078AFE1 /* StickyNote.h */,
+				163645F512754F790078AFE1 /* StickyNote.m */,
+				16208A4812724B150033B511 /* UIKitAnimations.h */,
+				16208A4912724B150033B511 /* UIKitAnimations.m */,
+			);
+			name = "UIKit Animations";
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		161017761276BE8100BFB705 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
 				163649F71276A1D90078AFE1 /* MainView.h */,
 				163649F81276A1D90078AFE1 /* MainView.m */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		161017771276BEA300BFB705 /* Uncategorized */ = {
+			isa = PBXGroup;
+			children = (
+				16208A281272268C0033B511 /* KeyFrameAnimation.h */,
+				16208A291272268C0033B511 /* KeyFrameAnimation.m */,
+				16208B211272645C0033B511 /* CABasics.h */,
+				16208B221272645C0033B511 /* CABasics.m */,
+			);
+			name = Uncategorized;
+			sourceTree = "<group>";
+		};
+		161017781276BEC800BFB705 /* CA Implicit Animations */ = {
+			isa = PBXGroup;
+			children = (
 				163648BD12767ADB0078AFE1 /* ChangePosition.h */,
 				163648BE12767ADB0078AFE1 /* ChangePosition.m */,
 				163648BF12767ADB0078AFE1 /* ChangePosition.xib */,
 				163648C412767AE50078AFE1 /* ShadowPath.h */,
 				163648C512767AE50078AFE1 /* ShadowPath.m */,
 				163648C612767AE50078AFE1 /* ShadowPath.xib */,
-				163647B01276062E0078AFE1 /* BasicAnimation.h */,
-				163647B11276062E0078AFE1 /* BasicAnimation.m */,
-				1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */,
-				1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */,
-				163645F412754F790078AFE1 /* StickyNote.h */,
-				163645F512754F790078AFE1 /* StickyNote.m */,
-				16208A4812724B150033B511 /* UIKitAnimations.h */,
-				16208A4912724B150033B511 /* UIKitAnimations.m */,
-				16208A281272268C0033B511 /* KeyFrameAnimation.h */,
-				16208A291272268C0033B511 /* KeyFrameAnimation.m */,
+			);
+			name = "CA Implicit Animations";
+			sourceTree = "<group>";
+		};
+		161017791276BEE200BFB705 /* CA Explicit Animations */ = {
+			isa = PBXGroup;
+			children = (
 				1636497012769B570078AFE1 /* KeyFrame.h */,
 				1636497112769B570078AFE1 /* KeyFrame.m */,
 				1636497212769B570078AFE1 /* KeyFrame.xib */,
-				16208B211272645C0033B511 /* CABasics.h */,
-				16208B221272645C0033B511 /* CABasics.m */,
+				163647B01276062E0078AFE1 /* BasicAnimation.h */,
+				163647B11276062E0078AFE1 /* BasicAnimation.m */,
 			);
-			path = Classes;
+			name = "CA Explicit Animations";
 			sourceTree = "<group>";
 		};
-		1636470012756DBB0078AFE1 /* Borrowed from neror */ = {
+		1610177A1276BF4B00BFB705 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* UIKit Animations */,
+				161017791276BEE200BFB705 /* CA Explicit Animations */,
+				161017781276BEC800BFB705 /* CA Implicit Animations */,
+				161017771276BEA300BFB705 /* Uncategorized */,
+				161017761276BE8100BFB705 /* Utilities */,
+				1636470012756DBB0078AFE1 /* Based on files from neror */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1636470012756DBB0078AFE1 /* Based on files from neror */ = {
 			isa = PBXGroup;
 			children = (
 				163646D412756BDD0078AFE1 /* RootViewController.h */,
@@ -130,7 +171,7 @@
 				163646D812756BDE0078AFE1 /* SampleManager.h */,
 				163646D912756BDE0078AFE1 /* SampleManager.m */,
 			);
-			name = "Borrowed from neror";
+			name = "Based on files from neror";
 			sourceTree = "<group>";
 		};
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
@@ -144,9 +185,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				1636470012756DBB0078AFE1 /* Borrowed from neror */,
-				080E96DDFE201D6D7F000001 /* Classes */,
-				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				1610177A1276BF4B00BFB705 /* Classes */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
@@ -157,6 +196,8 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */,
+				1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */,
 				32CA4F630368D1EE00C91783 /* AnimationTalk_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 				16208B8F127298320033B511 /* AllYourBase.xib */,
