@@ -1,7 +1,9 @@
 /*
- The MIT License
  
- Copyright (c) 2009 Free Time Studios and Nathan Eror
+ SampleManager.m
+ 
+ Modified by aut faciam and Alexis Goldstein from 
+ Free Time Studios and Nathan Eror
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -32,6 +34,7 @@
 #import "ChangePosition.h"
 #import "ShadowPath.h"
 #import "KeyFrame.h"
+#import "FlipTransition.h"
 
 @interface UIViewController (ThisIsHereToAviodACompilerWarning)
 
@@ -44,7 +47,7 @@
 - (id)init {
   self = [super init];
   if (self != nil) {
-    NSArray *uiKit = [NSArray arrayWithObjects:[UIKitAnimations class], [StickyNote class], nil];
+    NSArray *uiKit = [NSArray arrayWithObjects:[UIKitAnimations class], [StickyNote class], [FlipTransition class], nil];
     NSArray *caImplicit = [NSArray arrayWithObjects: [ChangePosition class], [ShadowPath class], nil];
     NSArray *caExplicit = [NSArray arrayWithObjects:[BasicAnimation class], [KeyFrame class], [KeyframeAnimation class], [CABasics class], nil];
     

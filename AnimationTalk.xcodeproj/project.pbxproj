@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1610178C1277113900BFB705 /* FlipTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 1610178A1277113900BFB705 /* FlipTransition.m */; };
+		1610178D1277113900BFB705 /* FlipTransition.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1610178B1277113900BFB705 /* FlipTransition.xib */; };
 		16208A2A1272268C0033B511 /* KeyFrameAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 16208A291272268C0033B511 /* KeyFrameAnimation.m */; };
 		16208A2E127226AE0033B511 /* meiInTank.png in Resources */ = {isa = PBXBuildFile; fileRef = 16208A2C127226AE0033B511 /* meiInTank.png */; };
 		16208A2F127226AE0033B511 /* meiTankSm.png in Resources */ = {isa = PBXBuildFile; fileRef = 16208A2D127226AE0033B511 /* meiTankSm.png */; };
@@ -35,6 +37,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		161017891277113900BFB705 /* FlipTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlipTransition.h; sourceTree = "<group>"; };
+		1610178A1277113900BFB705 /* FlipTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlipTransition.m; sourceTree = "<group>"; };
+		1610178B1277113900BFB705 /* FlipTransition.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlipTransition.xib; sourceTree = "<group>"; };
 		16208A281272268C0033B511 /* KeyFrameAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyFrameAnimation.h; sourceTree = "<group>"; };
 		16208A291272268C0033B511 /* KeyFrameAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyFrameAnimation.m; sourceTree = "<group>"; };
 		16208A2C127226AE0033B511 /* meiInTank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiInTank.png; sourceTree = "<group>"; };
@@ -97,6 +102,9 @@
 			children = (
 				163645F412754F790078AFE1 /* StickyNote.h */,
 				163645F512754F790078AFE1 /* StickyNote.m */,
+				161017891277113900BFB705 /* FlipTransition.h */,
+				1610178A1277113900BFB705 /* FlipTransition.m */,
+				1610178B1277113900BFB705 /* FlipTransition.xib */,
 				16208A4812724B150033B511 /* UIKitAnimations.h */,
 				16208A4912724B150033B511 /* UIKitAnimations.m */,
 			);
@@ -285,6 +293,7 @@
 				163648C112767ADB0078AFE1 /* ChangePosition.xib in Resources */,
 				163648C812767AE50078AFE1 /* ShadowPath.xib in Resources */,
 				1636497412769B570078AFE1 /* KeyFrame.xib in Resources */,
+				1610178D1277113900BFB705 /* FlipTransition.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,6 +317,7 @@
 				163648C712767AE50078AFE1 /* ShadowPath.m in Sources */,
 				1636497312769B570078AFE1 /* KeyFrame.m in Sources */,
 				163649F91276A1D90078AFE1 /* MainView.m in Sources */,
+				1610178C1277113900BFB705 /* FlipTransition.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

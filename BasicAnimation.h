@@ -2,7 +2,6 @@
 //  BasicAnimation.h
 //  AnimationTalk
 //
-//  Created by alexisgo on 10/25/10.
  The MIT License
  
  Copyright (c) 2010 aut faciam and Alexis Goldstein

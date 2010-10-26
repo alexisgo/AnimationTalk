@@ -1,10 +1,7 @@
 /*
-//  ShadowPath.h
+//  FlipTransition.h
 //  AnimationTalk
 //
-
-The MIT License
-
 Copyright (c) 2010 aut faciam and Alexis Goldstein
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -26,16 +23,20 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
-
 #import <UIKit/UIKit.h>
-#import <QuartzCore/QuartzCore.h>
 
-@interface ShadowPath : UIViewController {
-	CALayer *imageLayer;
 
+@interface FlipTransition : UIViewController {
+	IBOutlet UIButton *flipButton;
+	IBOutlet UIView *squareView;
+	IBOutlet UIView *blueSquareView;
 }
 
+@property (nonatomic, retain) UIButton *flipButton;
+@property (nonatomic, retain) UIView *squareView;
+@property (nonatomic, retain) UIView *blueSquareView;
+
+-(IBAction)flipView:(id) sender;
 + (NSString *)friendlyName;
-- (void) moveWithShadow:(id) sender;
 
 @end
