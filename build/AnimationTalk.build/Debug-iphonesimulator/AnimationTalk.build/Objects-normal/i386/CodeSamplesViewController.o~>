@@ -1,0 +1,3 @@
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CodeSamplesViewController.m: In function '-[CodeSamplesViewController tableView:numberOfRowsInSection:]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CodeSamplesViewController.m:80: error: expected expression before '<' token
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CodeSamplesViewController.m:81: warning: control reaches end of non-void function

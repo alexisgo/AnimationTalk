@@ -1,0 +1,23 @@
+//
+//  AnimationTalkAppDelegate.h
+//  AnimationTalk
+//
+//  Created by alexisgo on 10/22/10.
+//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "KeyFrameAnimation.h"
+#import "UIKitAnimations.h"
+#import "CABasics.h"
+#import "StickyNote.h"
+#import "RootViewController.h"
+
+@interface AnimationTalkAppDelegate : NSObject <UIApplicationDelegate, UITabBarControllerDelegate> {
+    UIWindow *window;
+}
+
+@property (nonatomic, retain) IBOutlet UIWindow *window;
+
+@end
+

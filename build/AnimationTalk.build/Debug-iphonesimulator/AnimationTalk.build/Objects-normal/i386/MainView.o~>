@@ -1,0 +1,8 @@
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m: In function '-[MainView dealloc]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m:16: error: '_path' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m:16: error: (Each undeclared identifier is reported only once
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m:16: error: for each function it appears in.)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m: In function '-[MainView setPath:]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m:23: error: '_path' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m: In function '-[MainView drawRect:]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m:33: error: '_path' undeclared (first use in this function)

@@ -1,0 +1,24 @@
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m: In function '-[CABasicAnimation loadView]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:30: error: 'meiTheCat' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:30: error: (Each undeclared identifier is reported only once
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:30: error: for each function it appears in.)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m: In function '-[CABasicAnimation fadeIn:]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:56: warning: 'CABasicAnimation' may not respond to '+animationWithKeyPath:'
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:56: warning: (Messages without a matching method signature
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:56: warning: will be assumed to return 'id' and accept
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:56: warning: '...' as arguments.)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:58: error: request for member 'toValue' in something not a structure or union
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:59: error: request for member 'duration' in something not a structure or union
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:60: error: request for member 'timingFunction' in something not a structure or union
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:60: error: 'CAMediaTimingFunction' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:60: error: 'kCAMediaTimingFunctionEaseInEaseOut' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:62: warning: 'UIView' may not respond to '-addAnimation:forKey:'
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m: In function '-[CABasicAnimation fadeOut:]':
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:68: warning: 'CABasicAnimation' may not respond to '+animationWithKeyPath:'
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:70: error: request for member 'toValue' in something not a structure or union
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:71: error: request for member 'duration' in something not a structure or union
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:72: error: request for member 'timingFunction' in something not a structure or union
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:72: error: 'CAMediaTimingFunction' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:72: error: 'kCAMediaTimingFunctionEaseInEaseOut' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:74: error: 'myAnimation' undeclared (first use in this function)
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../CABasicAnimation.m:74: warning: 'UIView' may not respond to '-addAnimation:forKey:'
