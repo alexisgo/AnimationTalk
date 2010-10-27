@@ -26,7 +26,7 @@
 
 #import "SampleManager.h"
 #import <objc/runtime.h>
-#import "SetOpacity.h"
+#import "SetAlpha.h"
 #import "StickyNote.h"
 #import "BasicAnimation.h"
 #import "ChangePosition.h"
@@ -48,7 +48,7 @@
 - (id)init {
   self = [super init];
   if (self != nil) {
-    NSArray *uiKit = [NSArray arrayWithObjects:[SetOpacity class], [UIKitChangePosition class], 
+    NSArray *uiKit = [NSArray arrayWithObjects:[SetAlpha class], [UIKitChangePosition class], 
 					  [SetTransform class], [StickyNote class], [FlipTransition class], 
 					  [NestedAnimations class], nil];
     NSArray *caImplicit = [NSArray arrayWithObjects: [ChangePosition class], [ShadowPath class], nil];

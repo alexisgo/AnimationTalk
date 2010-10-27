@@ -1,15 +1,15 @@
     //
-//  SetOpacity.m
+//  SetAlpha.m
 //  AnimationTalk
 //
 //  Created by alexisgo on 10/22/10.
 //  Copyright 2010 aut faciam. All rights reserved.
 //
 
-#import "SetOpacity.h"
+#import "SetAlpha.h"
 #import <QuartzCore/QuartzCore.h>
 
-@implementation SetOpacity
+@implementation SetAlpha
 
 @synthesize meiMei;
 

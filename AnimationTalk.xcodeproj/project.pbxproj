@@ -20,7 +20,7 @@
 		16101AE91278AE0100BFB705 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16101ADE1278AE0100BFB705 /* MainWindow.xib */; };
 		16101AEA1278AE0100BFB705 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE01278AE0100BFB705 /* RootViewController.m */; };
 		16101AEB1278AE0100BFB705 /* SampleManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE21278AE0100BFB705 /* SampleManager.m */; };
-		16101AEC1278AE0100BFB705 /* SetOpacity.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE41278AE0100BFB705 /* SetOpacity.m */; };
+		16101AEC1278AE0100BFB705 /* SetAlpha.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE41278AE0100BFB705 /* SetAlpha.m */; };
 		16101AED1278AE0100BFB705 /* StickyNote.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE61278AE0100BFB705 /* StickyNote.m */; };
 		16101BB61278B9A100BFB705 /* floorSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 16101BB31278B9A100BFB705 /* floorSmall.png */; };
 		16101BB71278B9A100BFB705 /* meiInTank.png in Resources */ = {isa = PBXBuildFile; fileRef = 16101BB41278B9A100BFB705 /* meiInTank.png */; };
@@ -59,8 +59,8 @@
 		16101AE01278AE0100BFB705 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RootViewController.m; path = Classes/RootViewController.m; sourceTree = "<group>"; };
 		16101AE11278AE0100BFB705 /* SampleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SampleManager.h; path = Classes/SampleManager.h; sourceTree = "<group>"; };
 		16101AE21278AE0100BFB705 /* SampleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SampleManager.m; path = Classes/SampleManager.m; sourceTree = "<group>"; };
-		16101AE31278AE0100BFB705 /* SetOpacity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetOpacity.h; sourceTree = "<group>"; };
-		16101AE41278AE0100BFB705 /* SetOpacity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetOpacity.m; sourceTree = "<group>"; };
+		16101AE31278AE0100BFB705 /* SetAlpha.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetAlpha.h; sourceTree = "<group>"; };
+		16101AE41278AE0100BFB705 /* SetAlpha.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetAlpha.m; sourceTree = "<group>"; };
 		16101AE51278AE0100BFB705 /* StickyNote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StickyNote.h; sourceTree = "<group>"; };
 		16101AE61278AE0100BFB705 /* StickyNote.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StickyNote.m; sourceTree = "<group>"; };
 		16101B081278AF1200BFB705 /* AnimationTalk_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimationTalk_Prefix.pch; sourceTree = "<group>"; };
@@ -104,8 +104,8 @@
 		080E96DDFE201D6D7F000001 /* UIView Animations */ = {
 			isa = PBXGroup;
 			children = (
-				16101AE31278AE0100BFB705 /* SetOpacity.h */,
-				16101AE41278AE0100BFB705 /* SetOpacity.m */,
+				16101AE31278AE0100BFB705 /* SetAlpha.h */,
+				16101AE41278AE0100BFB705 /* SetAlpha.m */,
 				16101AE51278AE0100BFB705 /* StickyNote.h */,
 				16101AE61278AE0100BFB705 /* StickyNote.m */,
 				161018C712787CE300BFB705 /* SetTransform.h */,
@@ -308,7 +308,7 @@
 				16101AE81278AE0100BFB705 /* main.m in Sources */,
 				16101AEA1278AE0100BFB705 /* RootViewController.m in Sources */,
 				16101AEB1278AE0100BFB705 /* SampleManager.m in Sources */,
-				16101AEC1278AE0100BFB705 /* SetOpacity.m in Sources */,
+				16101AEC1278AE0100BFB705 /* SetAlpha.m in Sources */,
 				16101AED1278AE0100BFB705 /* StickyNote.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

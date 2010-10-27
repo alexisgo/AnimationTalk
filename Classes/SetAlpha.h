@@ -1,5 +1,5 @@
 /*
-//  SetOpacity.h
+//  SetAlpha.h
 //  AnimationTalk
 //
  The MIT License
@@ -28,7 +28,7 @@
 #import <UIKit/UIKit.h>
 
 
-@interface SetOpacity : UIViewController {
+@interface SetAlpha : UIViewController {
 	UIImageView *meiMei;
 
 }
