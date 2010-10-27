@@ -1,7 +1,7 @@
 TAnimationTalk
 v7
 r0
-t309899059.674305
+t309901420.112098
 cCheck dependencies
 cProcessInfoPlistFile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist" AnimationTalk-Info.plist
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.xib"
@@ -923,7 +923,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies309899059#309899059#0(0"0(0#1#0"8680187648#0"0#
+lSLF07#2@18"Check dependencies309901420#309901420#0(0"0(0#1#0"8716312992#0"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309895907.668128
