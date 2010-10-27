@@ -47,12 +47,24 @@
 - (IBAction) move: (id) sender
 {
 	if (imageLayer.position.x < X_END)
-	{
-		imageLayer.position = CGPointMake(X_END, Y);		
+	{		
+		/* uncomment to demonstrate overriding defaults in implicit animations
+		[CATransaction setAnimationDuration: 5];
+		[CATransaction setAnimationTimingFunction:[CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionEaseInEaseOut]];
+		*/
+		
+		imageLayer.position = CGPointMake(X_END, Y);	
+
 	}
 	else 
 	{
+		/* uncomment to demonstrate overriding defaults in implicit animations
+		[CATransaction setAnimationDuration: 5];
+		[CATransaction setAnimationTimingFunction:[CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionEaseInEaseOut]];		
+		*/
+		
 		imageLayer.position = CGPointMake(X_START, Y);
+		
 	}
 
 }

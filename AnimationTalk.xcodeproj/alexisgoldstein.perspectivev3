@@ -231,6 +231,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -285,7 +287,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 285}, {222, 657}}</string>
+							<string>{{0, 0}, {222, 657}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -313,8 +315,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -332,7 +332,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>16101B651278B8B400BFB705</string>
+										<string>16101BF01278BA3500BFB705</string>
 										<key>history</key>
 										<array>
 											<string>16208AE5127253BE0033B511</string>
@@ -356,7 +356,7 @@
 											<string>16101AFA1278AE8F00BFB705</string>
 											<string>16101B0D1278AF2D00BFB705</string>
 											<string>16101B641278B8B400BFB705</string>
-											<string>16101AD61278AA1500BFB705</string>
+											<string>16101BB91278B9CE00BFB705</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -370,18 +370,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {989, 436}}</string>
+								<string>{{0, 0}, {989, 421}}</string>
 								<key>RubberWindowFrame</key>
 								<string>46 59 1233 716 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>436pt</string>
+							<string>421pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>234pt</string>
+							<string>249pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -395,7 +395,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {989, 207}}</string>
+										<string>{{10, 27}, {989, 222}}</string>
 										<key>RubberWindowFrame</key>
 										<string>46 59 1233 716 0 0 1280 778 </string>
 									</dict>
@@ -479,11 +479,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>16101B661278B8B400BFB705</string>
+				<string>16101BF11278BA3500BFB705</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>16101B671278B8B400BFB705</string>
+				<string>16101BF21278BA3500BFB705</string>
 				<string>16E644F31194B6DF00D164FE</string>
-				<string>16101B681278B8B400BFB705</string>
+				<string>16101BF31278BA3500BFB705</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
