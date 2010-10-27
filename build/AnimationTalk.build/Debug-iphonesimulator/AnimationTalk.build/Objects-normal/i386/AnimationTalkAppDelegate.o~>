@@ -1,0 +1,2 @@
+In file included from /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m:26:
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.h:11:21: error: CABasics.h: No such file or directory

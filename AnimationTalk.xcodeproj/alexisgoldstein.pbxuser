@@ -613,7 +613,7 @@
 		fRef = 1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */;
 		name = "AnimationTalkAppDelegate.m: 43";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 824;
 		vrLoc = 0;
@@ -1871,8 +1871,8 @@
 	161018C712787CE300BFB705 /* SetTransform.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 546}}";
-			sepNavSelRange = "{1294, 117}";
-			sepNavVisRange = "{327, 1142}";
+			sepNavSelRange = "{481, 5}";
+			sepNavVisRange = "{0, 1227}";
 		};
 	};
 	161018C812787CE300BFB705 /* SetTransform.m */ = {
@@ -3293,6 +3293,76 @@
 		vrLen = 915;
 		vrLoc = 684;
 	};
+	16101AD31278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 163646D912756BDE0078AFE1 /* SampleManager.m */;
+		name = "SampleManager.m: 29";
+		rLen = 0;
+		rLoc = 1229;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 684;
+	};
+	16101AD41278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 163647B01276062E0078AFE1 /* BasicAnimation.h */;
+		name = "BasicAnimation.h: 7";
+		rLen = 1097;
+		rLoc = 64;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 0;
+	};
+	16101AD51278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */;
+		name = "AnimationTalkAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 2;
+		rType = 0;
+		vrLen = 1256;
+		vrLoc = 0;
+	};
+	16101AD61278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */;
+		name = "AnimationTalkAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 2;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 0;
+	};
+	16101AD71278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 161018C712787CE300BFB705 /* SetTransform.h */;
+		name = "SetTransform.h: 12";
+		rLen = 5;
+		rLoc = 481;
+		rType = 0;
+		vrLen = 1227;
+		vrLoc = 0;
+	};
+	16101AD81278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 163646D412756BDD0078AFE1 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1282;
+		vrLoc = 0;
+	};
+	16101AD91278AA1500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 163646D412756BDD0078AFE1 /* RootViewController.h */;
+		name = "RootViewController.h: 19";
+		rLen = 0;
+		rLoc = 885;
+		rType = 0;
+		vrLen = 1282;
+		vrLoc = 0;
+	};
 	162089C5127226620033B511 /* AnimationTalk */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -3488,9 +3558,9 @@
 	};
 	163646D412756BDD0078AFE1 /* RootViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {964, 416}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{3, 1284}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 416}}";
+			sepNavSelRange = "{885, 0}";
+			sepNavVisRange = "{0, 1282}";
 		};
 	};
 	163646D512756BDD0078AFE1 /* RootViewController.m */ = {
@@ -3572,9 +3642,9 @@
 	};
 	163647B01276062E0078AFE1 /* BasicAnimation.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {964, 468}}";
-			sepNavSelRange = "{45, 0}";
-			sepNavVisRange = "{0, 1224}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 468}}";
+			sepNavSelRange = "{64, 1097}";
+			sepNavVisRange = "{0, 1222}";
 		};
 	};
 	163647B11276062E0078AFE1 /* BasicAnimation.m */ = {
@@ -3629,7 +3699,7 @@
 		fRef = 1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */;
 		name = "AnimationTalkAppDelegate.m: 43";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 0;
@@ -3900,16 +3970,16 @@
 	};
 	1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {928, 411}}";
-			sepNavSelRange = "{172, 0}";
-			sepNavVisRange = "{0, 461}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 507}}";
+			sepNavSelRange = "{2, 0}";
+			sepNavVisRange = "{0, 1256}";
 		};
 	};
 	1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1287}}";
-			sepNavSelRange = "{1241, 0}";
-			sepNavVisRange = "{0, 824}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 1482}}";
+			sepNavSelRange = "{2, 0}";
+			sepNavVisRange = "{0, 1234}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* AnimationTalk */ = {
@@ -4323,6 +4393,13 @@
 			16101AD01278A98C00BFB705 /* PBXTextBookmark */ = 16101AD01278A98C00BFB705 /* PBXTextBookmark */;
 			16101AD11278A98C00BFB705 /* PBXTextBookmark */ = 16101AD11278A98C00BFB705 /* PBXTextBookmark */;
 			16101AD21278A98C00BFB705 /* PBXTextBookmark */ = 16101AD21278A98C00BFB705 /* PBXTextBookmark */;
+			16101AD31278AA1500BFB705 /* PBXTextBookmark */ = 16101AD31278AA1500BFB705 /* PBXTextBookmark */;
+			16101AD41278AA1500BFB705 /* PBXTextBookmark */ = 16101AD41278AA1500BFB705 /* PBXTextBookmark */;
+			16101AD51278AA1500BFB705 /* PBXTextBookmark */ = 16101AD51278AA1500BFB705 /* PBXTextBookmark */;
+			16101AD61278AA1500BFB705 /* PBXTextBookmark */ = 16101AD61278AA1500BFB705 /* PBXTextBookmark */;
+			16101AD71278AA1500BFB705 /* PBXTextBookmark */ = 16101AD71278AA1500BFB705 /* PBXTextBookmark */;
+			16101AD81278AA1500BFB705 /* PBXTextBookmark */ = 16101AD81278AA1500BFB705 /* PBXTextBookmark */;
+			16101AD91278AA1500BFB705 /* PBXTextBookmark */ = 16101AD91278AA1500BFB705 /* PBXTextBookmark */;
 			16208AE5127253BE0033B511 = 16208AE5127253BE0033B511 /* PBXTextBookmark */;
 			163645E3127547420078AFE1 = 163645E3127547420078AFE1 /* PBXBookmark */;
 			163645E4127547420078AFE1 = 163645E4127547420078AFE1 /* PBXBookmark */;
