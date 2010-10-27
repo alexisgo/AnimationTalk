@@ -15,28 +15,27 @@
 		161018CB12787CE300BFB705 /* SetTransform.xib in Resources */ = {isa = PBXBuildFile; fileRef = 161018C912787CE300BFB705 /* SetTransform.xib */; };
 		161019251278825C00BFB705 /* NestedAnimations.m in Sources */ = {isa = PBXBuildFile; fileRef = 161019231278825C00BFB705 /* NestedAnimations.m */; };
 		161019261278825C00BFB705 /* NestedAnimations.xib in Resources */ = {isa = PBXBuildFile; fileRef = 161019241278825C00BFB705 /* NestedAnimations.xib */; };
-		16208A2E127226AE0033B511 /* meiInTank.png in Resources */ = {isa = PBXBuildFile; fileRef = 16208A2C127226AE0033B511 /* meiInTank.png */; };
-		16208A2F127226AE0033B511 /* meiTankSm.png in Resources */ = {isa = PBXBuildFile; fileRef = 16208A2D127226AE0033B511 /* meiTankSm.png */; };
+		16101AE71278AE0100BFB705 /* BasicAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101ADC1278AE0100BFB705 /* BasicAnimation.m */; };
+		16101AE81278AE0100BFB705 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101ADD1278AE0100BFB705 /* main.m */; };
+		16101AE91278AE0100BFB705 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16101ADE1278AE0100BFB705 /* MainWindow.xib */; };
+		16101AEA1278AE0100BFB705 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE01278AE0100BFB705 /* RootViewController.m */; };
+		16101AEB1278AE0100BFB705 /* SampleManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE21278AE0100BFB705 /* SampleManager.m */; };
+		16101AEC1278AE0100BFB705 /* SetOpacity.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE41278AE0100BFB705 /* SetOpacity.m */; };
+		16101AED1278AE0100BFB705 /* StickyNote.m in Sources */ = {isa = PBXBuildFile; fileRef = 16101AE61278AE0100BFB705 /* StickyNote.m */; };
+		16101AF11278AE7B00BFB705 /* floorSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 16101AEE1278AE7B00BFB705 /* floorSmall.png */; };
+		16101AF21278AE7B00BFB705 /* meiInTank.png in Resources */ = {isa = PBXBuildFile; fileRef = 16101AEF1278AE7B00BFB705 /* meiInTank.png */; };
+		16101AF31278AE7B00BFB705 /* meiTankSm.png in Resources */ = {isa = PBXBuildFile; fileRef = 16101AF01278AE7B00BFB705 /* meiTankSm.png */; };
 		16208A39127227400033B511 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16208A38127227400033B511 /* QuartzCore.framework */; };
-		16208A4A12724B150033B511 /* SetOpacity.m in Sources */ = {isa = PBXBuildFile; fileRef = 16208A4912724B150033B511 /* SetOpacity.m */; };
-		163645D9127546B20078AFE1 /* floorSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 163645D8127546B20078AFE1 /* floorSmall.png */; };
-		163645F612754F790078AFE1 /* StickyNote.m in Sources */ = {isa = PBXBuildFile; fileRef = 163645F512754F790078AFE1 /* StickyNote.m */; };
-		163646DA12756BDE0078AFE1 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 163646D512756BDD0078AFE1 /* RootViewController.m */; };
-		163646DC12756BDE0078AFE1 /* SampleManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 163646D912756BDE0078AFE1 /* SampleManager.m */; };
-		163647B21276062E0078AFE1 /* BasicAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 163647B11276062E0078AFE1 /* BasicAnimation.m */; };
 		163648C012767ADB0078AFE1 /* ChangePosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 163648BE12767ADB0078AFE1 /* ChangePosition.m */; };
 		163648C112767ADB0078AFE1 /* ChangePosition.xib in Resources */ = {isa = PBXBuildFile; fileRef = 163648BF12767ADB0078AFE1 /* ChangePosition.xib */; };
 		163648C712767AE50078AFE1 /* ShadowPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 163648C512767AE50078AFE1 /* ShadowPath.m */; };
 		163648C812767AE50078AFE1 /* ShadowPath.xib in Resources */ = {isa = PBXBuildFile; fileRef = 163648C612767AE50078AFE1 /* ShadowPath.xib */; };
 		1636497312769B570078AFE1 /* KeyFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 1636497112769B570078AFE1 /* KeyFrame.m */; };
 		1636497412769B570078AFE1 /* KeyFrame.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1636497212769B570078AFE1 /* KeyFrame.xib */; };
-		163649F91276A1D90078AFE1 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 163649F81276A1D90078AFE1 /* MainView.m */; };
 		1D3623260D0F684500981E51 /* AnimationTalkAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */; };
-		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
-		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,20 +51,23 @@
 		161019221278825C00BFB705 /* NestedAnimations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NestedAnimations.h; sourceTree = "<group>"; };
 		161019231278825C00BFB705 /* NestedAnimations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NestedAnimations.m; sourceTree = "<group>"; };
 		161019241278825C00BFB705 /* NestedAnimations.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NestedAnimations.xib; sourceTree = "<group>"; };
-		16208A2C127226AE0033B511 /* meiInTank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiInTank.png; sourceTree = "<group>"; };
-		16208A2D127226AE0033B511 /* meiTankSm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiTankSm.png; sourceTree = "<group>"; };
+		16101ADB1278AE0100BFB705 /* BasicAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BasicAnimation.h; path = Classes/BasicAnimation.h; sourceTree = "<group>"; };
+		16101ADC1278AE0100BFB705 /* BasicAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BasicAnimation.m; path = Classes/BasicAnimation.m; sourceTree = "<group>"; };
+		16101ADD1278AE0100BFB705 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Classes/main.m; sourceTree = "<group>"; };
+		16101ADE1278AE0100BFB705 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = Classes/MainWindow.xib; sourceTree = "<group>"; };
+		16101ADF1278AE0100BFB705 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RootViewController.h; path = Classes/RootViewController.h; sourceTree = "<group>"; };
+		16101AE01278AE0100BFB705 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RootViewController.m; path = Classes/RootViewController.m; sourceTree = "<group>"; };
+		16101AE11278AE0100BFB705 /* SampleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SampleManager.h; path = Classes/SampleManager.h; sourceTree = "<group>"; };
+		16101AE21278AE0100BFB705 /* SampleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SampleManager.m; path = Classes/SampleManager.m; sourceTree = "<group>"; };
+		16101AE31278AE0100BFB705 /* SetOpacity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetOpacity.h; sourceTree = "<group>"; };
+		16101AE41278AE0100BFB705 /* SetOpacity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetOpacity.m; sourceTree = "<group>"; };
+		16101AE51278AE0100BFB705 /* StickyNote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StickyNote.h; sourceTree = "<group>"; };
+		16101AE61278AE0100BFB705 /* StickyNote.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StickyNote.m; sourceTree = "<group>"; };
+		16101AEE1278AE7B00BFB705 /* floorSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = floorSmall.png; sourceTree = "<group>"; };
+		16101AEF1278AE7B00BFB705 /* meiInTank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiInTank.png; sourceTree = "<group>"; };
+		16101AF01278AE7B00BFB705 /* meiTankSm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meiTankSm.png; sourceTree = "<group>"; };
+		16101B081278AF1200BFB705 /* AnimationTalk_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimationTalk_Prefix.pch; sourceTree = "<group>"; };
 		16208A38127227400033B511 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		16208A4812724B150033B511 /* SetOpacity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SetOpacity.h; path = ../SetOpacity.h; sourceTree = "<group>"; };
-		16208A4912724B150033B511 /* SetOpacity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SetOpacity.m; path = ../SetOpacity.m; sourceTree = "<group>"; };
-		163645D8127546B20078AFE1 /* floorSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = floorSmall.png; sourceTree = "<group>"; };
-		163645F412754F790078AFE1 /* StickyNote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StickyNote.h; path = ../StickyNote.h; sourceTree = "<group>"; };
-		163645F512754F790078AFE1 /* StickyNote.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StickyNote.m; path = ../StickyNote.m; sourceTree = "<group>"; };
-		163646D412756BDD0078AFE1 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		163646D512756BDD0078AFE1 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		163646D812756BDE0078AFE1 /* SampleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleManager.h; sourceTree = "<group>"; };
-		163646D912756BDE0078AFE1 /* SampleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleManager.m; sourceTree = "<group>"; };
-		163647B01276062E0078AFE1 /* BasicAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicAnimation.h; sourceTree = "<group>"; };
-		163647B11276062E0078AFE1 /* BasicAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicAnimation.m; sourceTree = "<group>"; };
 		163648BD12767ADB0078AFE1 /* ChangePosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChangePosition.h; path = Classes/ChangePosition.h; sourceTree = "<group>"; };
 		163648BE12767ADB0078AFE1 /* ChangePosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChangePosition.m; path = Classes/ChangePosition.m; sourceTree = "<group>"; };
 		163648BF12767ADB0078AFE1 /* ChangePosition.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ChangePosition.xib; path = Classes/ChangePosition.xib; sourceTree = "<group>"; };
@@ -75,17 +77,12 @@
 		1636497012769B570078AFE1 /* KeyFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeyFrame.h; path = Classes/KeyFrame.h; sourceTree = "<group>"; };
 		1636497112769B570078AFE1 /* KeyFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeyFrame.m; path = Classes/KeyFrame.m; sourceTree = "<group>"; };
 		1636497212769B570078AFE1 /* KeyFrame.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = KeyFrame.xib; path = Classes/KeyFrame.xib; sourceTree = "<group>"; };
-		163649F71276A1D90078AFE1 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainView.h; path = Classes/MainView.h; sourceTree = "<group>"; };
-		163649F81276A1D90078AFE1 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainView.m; path = Classes/MainView.m; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AnimationTalkAppDelegate.h; path = Classes/AnimationTalkAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AnimationTalkAppDelegate.m; path = Classes/AnimationTalkAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* AnimationTalk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationTalk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
-		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		32CA4F630368D1EE00C91783 /* AnimationTalk_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimationTalk_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* AnimationTalk-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "AnimationTalk-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -107,16 +104,16 @@
 		080E96DDFE201D6D7F000001 /* UIView Animations */ = {
 			isa = PBXGroup;
 			children = (
+				16101AE31278AE0100BFB705 /* SetOpacity.h */,
+				16101AE41278AE0100BFB705 /* SetOpacity.m */,
+				16101AE51278AE0100BFB705 /* StickyNote.h */,
+				16101AE61278AE0100BFB705 /* StickyNote.m */,
 				161018C712787CE300BFB705 /* SetTransform.h */,
 				161018C812787CE300BFB705 /* SetTransform.m */,
 				161018C912787CE300BFB705 /* SetTransform.xib */,
-				163645F412754F790078AFE1 /* StickyNote.h */,
-				163645F512754F790078AFE1 /* StickyNote.m */,
 				161017891277113900BFB705 /* FlipTransition.h */,
 				1610178A1277113900BFB705 /* FlipTransition.m */,
 				1610178B1277113900BFB705 /* FlipTransition.xib */,
-				16208A4812724B150033B511 /* SetOpacity.h */,
-				16208A4912724B150033B511 /* SetOpacity.m */,
 				161018421277AB8700BFB705 /* SetCenter.h */,
 				161018431277AB8700BFB705 /* SetCenter.m */,
 				161018441277AB8700BFB705 /* SetCenter.xib */,
@@ -126,15 +123,6 @@
 			);
 			name = "UIView Animations";
 			path = Classes;
-			sourceTree = "<group>";
-		};
-		161017761276BE8100BFB705 /* Utilities */ = {
-			isa = PBXGroup;
-			children = (
-				163649F71276A1D90078AFE1 /* MainView.h */,
-				163649F81276A1D90078AFE1 /* MainView.m */,
-			);
-			name = Utilities;
 			sourceTree = "<group>";
 		};
 		161017781276BEC800BFB705 /* CA Implicit Animations */ = {
@@ -153,11 +141,11 @@
 		161017791276BEE200BFB705 /* CA Explicit Animations */ = {
 			isa = PBXGroup;
 			children = (
+				16101ADB1278AE0100BFB705 /* BasicAnimation.h */,
+				16101ADC1278AE0100BFB705 /* BasicAnimation.m */,
 				1636497012769B570078AFE1 /* KeyFrame.h */,
 				1636497112769B570078AFE1 /* KeyFrame.m */,
 				1636497212769B570078AFE1 /* KeyFrame.xib */,
-				163647B01276062E0078AFE1 /* BasicAnimation.h */,
-				163647B11276062E0078AFE1 /* BasicAnimation.m */,
 			);
 			name = "CA Explicit Animations";
 			sourceTree = "<group>";
@@ -168,7 +156,6 @@
 				080E96DDFE201D6D7F000001 /* UIView Animations */,
 				161017781276BEC800BFB705 /* CA Implicit Animations */,
 				161017791276BEE200BFB705 /* CA Explicit Animations */,
-				161017761276BE8100BFB705 /* Utilities */,
 				1636470012756DBB0078AFE1 /* Based on files from neror */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 			);
@@ -178,10 +165,10 @@
 		1636470012756DBB0078AFE1 /* Based on files from neror */ = {
 			isa = PBXGroup;
 			children = (
-				163646D412756BDD0078AFE1 /* RootViewController.h */,
-				163646D512756BDD0078AFE1 /* RootViewController.m */,
-				163646D812756BDE0078AFE1 /* SampleManager.h */,
-				163646D912756BDE0078AFE1 /* SampleManager.m */,
+				16101ADF1278AE0100BFB705 /* RootViewController.h */,
+				16101AE01278AE0100BFB705 /* RootViewController.m */,
+				16101AE11278AE0100BFB705 /* SampleManager.h */,
+				16101AE21278AE0100BFB705 /* SampleManager.m */,
 			);
 			name = "Based on files from neror";
 			sourceTree = "<group>";
@@ -208,10 +195,10 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				16101B081278AF1200BFB705 /* AnimationTalk_Prefix.pch */,
+				16101ADD1278AE0100BFB705 /* main.m */,
 				1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */,
 				1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */,
-				32CA4F630368D1EE00C91783 /* AnimationTalk_Prefix.pch */,
-				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
 			name = "Other Sources";
 			sourceTree = "<group>";
@@ -219,10 +206,10 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				163645D8127546B20078AFE1 /* floorSmall.png */,
-				16208A2C127226AE0033B511 /* meiInTank.png */,
-				16208A2D127226AE0033B511 /* meiTankSm.png */,
-				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				16101AEE1278AE7B00BFB705 /* floorSmall.png */,
+				16101AEF1278AE7B00BFB705 /* meiInTank.png */,
+				16101AF01278AE7B00BFB705 /* meiTankSm.png */,
+				16101ADE1278AE0100BFB705 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* AnimationTalk-Info.plist */,
 			);
 			name = Resources;
@@ -288,10 +275,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
-				16208A2E127226AE0033B511 /* meiInTank.png in Resources */,
-				16208A2F127226AE0033B511 /* meiTankSm.png in Resources */,
-				163645D9127546B20078AFE1 /* floorSmall.png in Resources */,
 				163648C112767ADB0078AFE1 /* ChangePosition.xib in Resources */,
 				163648C812767AE50078AFE1 /* ShadowPath.xib in Resources */,
 				1636497412769B570078AFE1 /* KeyFrame.xib in Resources */,
@@ -299,6 +282,10 @@
 				161018461277AB8700BFB705 /* SetCenter.xib in Resources */,
 				161018CB12787CE300BFB705 /* SetTransform.xib in Resources */,
 				161019261278825C00BFB705 /* NestedAnimations.xib in Resources */,
+				16101AE91278AE0100BFB705 /* MainWindow.xib in Resources */,
+				16101AF11278AE7B00BFB705 /* floorSmall.png in Resources */,
+				16101AF21278AE7B00BFB705 /* meiInTank.png in Resources */,
+				16101AF31278AE7B00BFB705 /* meiTankSm.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,21 +296,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AnimationTalkAppDelegate.m in Sources */,
-				16208A4A12724B150033B511 /* SetOpacity.m in Sources */,
-				163645F612754F790078AFE1 /* StickyNote.m in Sources */,
-				163646DA12756BDE0078AFE1 /* RootViewController.m in Sources */,
-				163646DC12756BDE0078AFE1 /* SampleManager.m in Sources */,
-				163647B21276062E0078AFE1 /* BasicAnimation.m in Sources */,
 				163648C012767ADB0078AFE1 /* ChangePosition.m in Sources */,
 				163648C712767AE50078AFE1 /* ShadowPath.m in Sources */,
 				1636497312769B570078AFE1 /* KeyFrame.m in Sources */,
-				163649F91276A1D90078AFE1 /* MainView.m in Sources */,
 				1610178C1277113900BFB705 /* FlipTransition.m in Sources */,
 				161018451277AB8700BFB705 /* SetCenter.m in Sources */,
 				161018CA12787CE300BFB705 /* SetTransform.m in Sources */,
 				161019251278825C00BFB705 /* NestedAnimations.m in Sources */,
+				16101AE71278AE0100BFB705 /* BasicAnimation.m in Sources */,
+				16101AE81278AE0100BFB705 /* main.m in Sources */,
+				16101AEA1278AE0100BFB705 /* RootViewController.m in Sources */,
+				16101AEB1278AE0100BFB705 /* SampleManager.m in Sources */,
+				16101AEC1278AE0100BFB705 /* SetOpacity.m in Sources */,
+				16101AED1278AE0100BFB705 /* StickyNote.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,6 +349,7 @@
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;

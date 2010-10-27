@@ -1,10 +1,7 @@
 /*
-//  KeyFrame.h
-//  AnimationTalk
-//
  The MIT License
  
- Copyright (c) 2010 aut faciam and Alexis Goldstein
+ Copyright (c) 2009 Free Time Studios and Nathan Eror
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -23,24 +20,12 @@
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
- */
+*/
 
-#import <UIKit/UIKit.h>
-#import <QuartzCore/QuartzCore.h>
+@class SampleManager;
 
-@interface KeyFrame : UIViewController {
-	IBOutlet UISwitch *cubicSwitch;
-	IBOutlet UIView *point1;
-	IBOutlet UIView *point2;
-	IBOutlet UIView *point3;
-	IBOutlet UIView *point4;
-	
-	CALayer *spriteLayer;
-
+@interface RootViewController : UITableViewController <UITableViewDelegate, UITableViewDataSource> {
+  SampleManager *sampleManager_;
 }
-
-@property (nonatomic, retain) CALayer *spriteLayer;
-
--(IBAction) connectTheDots:(id)sender;
 
 @end

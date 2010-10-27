@@ -1,10 +1,7 @@
 /*
-//  KeyFrame.h
-//  AnimationTalk
-//
  The MIT License
  
- Copyright (c) 2010 aut faciam and Alexis Goldstein
+ Copyright (c) 2009 Free Time Studios and Nathan Eror
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -23,24 +20,28 @@
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
- */
+*/
 
-#import <UIKit/UIKit.h>
-#import <QuartzCore/QuartzCore.h>
+#import <Foundation/Foundation.h>
 
-@interface KeyFrame : UIViewController {
-	IBOutlet UISwitch *cubicSwitch;
-	IBOutlet UIView *point1;
-	IBOutlet UIView *point2;
-	IBOutlet UIView *point3;
-	IBOutlet UIView *point4;
-	
-	CALayer *spriteLayer;
-
+@interface Sample : UIViewController {
 }
 
-@property (nonatomic, retain) CALayer *spriteLayer;
++ (NSString *)name;
 
--(IBAction) connectTheDots:(id)sender;
+@end
+
+
+@interface SampleManager : NSObject {
+  NSArray *groups_;
+  NSArray *samples_;
+}
+
+- (NSUInteger)groupCount;
+- (NSUInteger)sampleCountForGroup:(NSUInteger)group;
+- (NSArray *)samplesForGroup:(NSUInteger)group;
+- (NSString *)sampleNameAtIndexPath:(NSIndexPath *)indexPath;
+- (UIViewController *)sampleForIndexPath:(NSIndexPath *)indexPath;
+- (NSString *)groupTitleAtIndex:(NSUInteger)index;
 
 @end

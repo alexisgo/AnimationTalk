@@ -1,5 +1,5 @@
 /*
-//  KeyFrame.h
+//  StickyNote.h
 //  AnimationTalk
 //
  The MIT License
@@ -26,21 +26,15 @@
  */
 
 #import <UIKit/UIKit.h>
-#import <QuartzCore/QuartzCore.h>
 
-@interface KeyFrame : UIViewController {
-	IBOutlet UISwitch *cubicSwitch;
-	IBOutlet UIView *point1;
-	IBOutlet UIView *point2;
-	IBOutlet UIView *point3;
-	IBOutlet UIView *point4;
-	
-	CALayer *spriteLayer;
+
+@interface StickyNote : UIViewController {
+	UIView *stickyNote;
 
 }
 
-@property (nonatomic, retain) CALayer *spriteLayer;
+@property (nonatomic, retain) UIView *stickyNote;
 
--(IBAction) connectTheDots:(id)sender;
+-(void)curl:(id) sender;
 
 @end

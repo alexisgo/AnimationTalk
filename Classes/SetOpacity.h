@@ -1,5 +1,5 @@
 /*
-//  KeyFrame.h
+//  SetOpacity.h
 //  AnimationTalk
 //
  The MIT License
@@ -26,21 +26,12 @@
  */
 
 #import <UIKit/UIKit.h>
-#import <QuartzCore/QuartzCore.h>
 
-@interface KeyFrame : UIViewController {
-	IBOutlet UISwitch *cubicSwitch;
-	IBOutlet UIView *point1;
-	IBOutlet UIView *point2;
-	IBOutlet UIView *point3;
-	IBOutlet UIView *point4;
-	
-	CALayer *spriteLayer;
+
+@interface SetOpacity : UIViewController {
+	UIImageView *meiMei;
 
 }
 
-@property (nonatomic, retain) CALayer *spriteLayer;
-
--(IBAction) connectTheDots:(id)sender;
-
+@property (nonatomic, retain) UIImageView *meiMei;
 @end

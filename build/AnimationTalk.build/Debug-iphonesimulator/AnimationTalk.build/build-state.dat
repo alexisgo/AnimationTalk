@@ -1,13 +1,9 @@
 TAnimationTalk
 v7
 r0
-t309897612.178651
+t309899059.674305
 cCheck dependencies
 cProcessInfoPlistFile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist" AnimationTalk-Info.plist
-cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/MainWindow.xib"
-cCpResource build/Debug-iphonesimulator/AnimationTalk.app/meiInTank.png meiInTank.png
-cCpResource build/Debug-iphonesimulator/AnimationTalk.app/meiTankSm.png meiTankSm.png
-cCpResource build/Debug-iphonesimulator/AnimationTalk.app/floorSmall.png floorSmall.png
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.xib"
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.xib"
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.xib"
@@ -15,22 +11,25 @@ cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Ta
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.xib"
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.xib"
 cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.xib"
-cProcessPCH /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch.gch AnimationTalk_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../StickyNote.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SampleManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/BasicAnimation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/MainView.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/AnimationTalk.app/floorSmall.png floorSmall.png
+cCpResource build/Debug-iphonesimulator/AnimationTalk.app/meiInTank.png meiInTank.png
+cCpResource build/Debug-iphonesimulator/AnimationTalk.app/meiTankSm.png meiTankSm.png
+cProcessPCH /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch.gch AnimationTalk_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m" normal i386 objective-c com.apple.compilers.llvmgcc42
 cLd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk" normal i386
 cGenerateDSYMFile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app.dSYM" "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk"
 cTouch "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app"
@@ -86,8 +85,8 @@ t1288201737
 s24726
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch
-c000000004CC1EEE200000000000000C3
-t1287778018
+c000000004CC8776E00000000000000C3
+t1288206190
 s195
 i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
@@ -100,10 +99,9 @@ i<UIKit/UIKit.h>
 i<QuartzCore/QuartzCore.h>
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/BasicAnimation.m
-c000000004CC866240000000000000CA6
-t1288201764
-s3238
-i"BasicAnimation.h"
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CA360AppDelegate.h
 c000000004C8D79B40000000000000600
@@ -214,11 +212,9 @@ t1284340148
 s1287
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m
-c000000004CC86990000000000000081D
-t1288202640
-s2077
-i"SetOpacity.h"
-i<QuartzCore/QuartzCore.h>
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../StickyNote.h
 c000000004CC68639000000000000055C
@@ -257,20 +253,32 @@ t1288148852
 s6266
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.h
-c000000004CC869A600000000000001CD
-t1288202662
-s461
+c000000004CC877A80000000000000591
+t1288206248
+s1425
 i<UIKit/UIKit.h>
 i"SetOpacity.h"
-i"CABasics.h"
 i"StickyNote.h"
 i"RootViewController.h"
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m
-c000000004CC869900000000000000CE4
-t1288202640
-s3300
+c000000004CC872810000000000000E89
+t1288204929
+s3721
 i"AnimationTalkAppDelegate.h"
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.h
+c000000004CC7230B000000000000052F
+t1288119051
+s1327
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m
+c000000004CC866240000000000000CA6
+t1288201764
+s3238
+i"BasicAnimation.h"
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.h
 c000000004CC686140000000000000554
@@ -308,12 +316,11 @@ t1288119584
 s23699
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.h
-c000000004CC6865E0000000000000606
-t1288078942
-s1542
+c000000004CC876FE00000000000005F1
+t1288206078
+s1521
 i<UIKit/UIKit.h>
 i<QuartzCore/QuartzCore.h>
-i"MainView.h"
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m
 c000000004CC75E050000000000000880
@@ -337,6 +344,11 @@ t1288119051
 s825
 i"MainView.h"
 
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainWindow.xib
+c000000004CC1EEE20000000000002126
+t1287778018
+s8486
+
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.h
 c000000004CC86E2E00000000000003DA
 t1288203822
@@ -355,6 +367,41 @@ c000000004CC87191000000000000883B
 t1288204689
 s34875
 
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.h
+c000000004C8D79B40000000000000507
+t1284340148
+s1287
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m
+c000000004CC538AB0000000000000A9F
+t1287993515
+s2719
+i"RootViewController.h"
+i"SampleManager.h"
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.h
+c000000004CC5358A0000000000000656
+t1287992714
+s1622
+i<Foundation/Foundation.h>
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m
+c000000004CC872090000000000000D10
+t1288204809
+s3344
+i"SampleManager.h"
+i<objc/runtime.h>
+i"SetOpacity.h"
+i"StickyNote.h"
+i"BasicAnimation.h"
+i"ChangePosition.h"
+i"ShadowPath.h"
+i"KeyFrame.h"
+i"FlipTransition.h"
+i"SetCenter.h"
+i"SetTransform.h"
+i"NestedAnimations.h"
+
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.h
 c000000004CC7AA1700000000000005F0
 t1288153623
@@ -372,6 +419,19 @@ N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/Animation
 c000000004CC869810000000000004317
 t1288202625
 s17175
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.h
+c000000004CC86990000000000000051E
+t1288202640
+s1310
+i<UIKit/UIKit.h>
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m
+c000000004CC86990000000000000081D
+t1288202640
+s2077
+i"SetOpacity.h"
+i<QuartzCore/QuartzCore.h>
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.h
 c000000004CC84E7700000000000005BD
@@ -408,6 +468,18 @@ c000000004CC64A6A0000000000004986
 t1288063594
 s18822
 
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.h
+c000000004CC7230B0000000000000537
+t1288119051
+s1335
+i<UIKit/UIKit.h>
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m
+c000000004CC7230B00000000000008F4
+t1288119051
+s2292
+i"StickyNote.h"
+
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/UIKitChangePosition.h
 c000000004CC7AA1700000000000005F0
 t1288153623
@@ -443,6 +515,12 @@ c000000004CC84ABA00000000000055A0
 t1288194746
 s21920
 
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m
+c000000004CC877930000000000000165
+t1288206227
+s357
+i<UIKit/UIKit.h>
+
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CodeSamplesViewController.h
 c000000004CC5340300000000000000FE
 t1287992323
@@ -469,9 +547,9 @@ i"KeyframeAnimation.h"
 i<QuartzCore/QuartzCore.h>
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/MainWindow.xib
-c000000004CC1EEE20000000000002126
-t1287778018
-s8486
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.h
 c000000004C8D79B40000000000000507
@@ -479,11 +557,9 @@ t1284340148
 s1287
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.m
-c000000004CC538AB0000000000000A9F
-t1287993515
-s2719
-i"RootViewController.h"
-i"SampleManager.h"
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RotateAroundAnchor.h
 c000000004CC855C000000000000005AA
@@ -510,21 +586,9 @@ s1622
 i<Foundation/Foundation.h>
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SampleManager.m
-c000000004CC872090000000000000D10
-t1288204809
-s3344
-i"SampleManager.h"
-i<objc/runtime.h>
-i"SetOpacity.h"
-i"StickyNote.h"
-i"BasicAnimation.h"
-i"ChangePosition.h"
-i"ShadowPath.h"
-i"KeyFrame.h"
-i"FlipTransition.h"
-i"SetCenter.h"
-i"SetTransform.h"
-i"NestedAnimations.h"
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SetOpacity.h
 c000000004CC86990000000000000051E
@@ -575,17 +639,25 @@ t1288148852
 s6266
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalk.LinkFileList
-c000000004CC872090000000000000AF9
-t1288204809
-s2809
+c000000004CC876FE0000000000000A42
+t1288206078
+s2626
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o
-t1288203107
-s51508
+t1288206248
+s47728
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation-10D63C5500FDDE3F.o
+t2
+s0
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation-4B81FF5D936CEF58.o
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o
-t1288201764
-s46916
+t1288206237
+s42136
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/CA360AppDelegate.o
 t2
@@ -600,20 +672,20 @@ t1288203168
 s61048
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o
-t1288148889
-s40416
+t1288206236
+s36792
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/CodeSamplesViewController.o
 t2
 s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o
-t1288133996
-s43976
+t1288206236
+s39872
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o
-t1288134181
-s44676
+t1288206236
+s41088
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrameAnimation.o
 t1288134180
@@ -624,40 +696,64 @@ t1288119053
 s36576
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o
-t1288204727
-s78052
+t1288206237
+s72524
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController-53C87897910BD046.o
+t2
+s0
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController-AE1547FE61E67666.o
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o
-t1287993516
-s46240
+t1288206237
+s42836
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RotateAroundAnchor.o
 t1288197613
 s38920
 
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager-44CB36EBF3FBF048.o
+t2
+s0
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager-D46310F360E2BE6B.o
+t2
+s0
+
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o
-t1288204809
-s43800
+t1288206237
+s38492
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o
-t1288202658
-s45628
+t1288206236
+s42108
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity-35CDF54056EC104A.o
+t2
+s0
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity-BBF75C2DEE65730E.o
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o
-t1288202641
-s48232
+t1288206237
+s43168
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o
-t1288196463
-s44092
+t1288206237
+s40268
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o
-t1288203108
-s42600
+t1288206236
+s38228
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o
-t1288119052
-s43884
+t1288206237
+s38796
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/UIKitAnimations.o
 t1288195333
@@ -675,16 +771,24 @@ N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/Animation
 t1288148889
 s34748
 
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main-B9843B6026D6EFA4.o
+t2
+s0
+
+N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main-C4035E87C4E4FF59.o
+t2
+s0
+
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o
-t1288119052
-s6392
+t1288206237
+s3200
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app
-t1288204809
+t1288206249
 s748
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app.dSYM
-t1288204809
+t1288206249
 s102
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AllYourBase.nib
@@ -692,8 +796,8 @@ t1288201741
 s3030
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk
-t1288204809
-s95956
+t1288206249
+s99072
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/CABasics.nib
 t2
@@ -708,7 +812,7 @@ t1288119588
 s3201
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist
-t1287778173
+t1288206190
 s615
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/KeyFrame.nib
@@ -716,7 +820,7 @@ t1288078331
 s4345
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/MainWindow.nib
-t1287778173
+t1288206080
 s1537
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/NestedAnimations.nib
@@ -724,7 +828,7 @@ t1288204692
 s5091
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/PkgInfo
-t1287778173
+t1288206190
 s8
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/RotateAroundAnchor.nib
@@ -782,10 +886,9 @@ t1287982876
 s78875
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/main.m
-c000000004CC7230B0000000000000165
-t1288119051
-s357
-i<UIKit/UIKit.h>
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/meiInTank.png
 c000000004CC1EE2A000000000000CCB8
@@ -797,9 +900,21 @@ c000000004CC1EE54000000000000130E
 t1287777876
 s4878
 
+N/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-bvnydrlzenqnhsfgzlyyghexrjev/AnimationTalk_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-csvljtukwsgspeelkrcolqzbdkry/AnimationTalk_Prefix.pch.gch
+t2
+s0
+
 N/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch.gch
 t1287778174
 s15211536
+
+N/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch.gch
+t1288206235
+s11762704
 
 NAnimationTalk-Info.plist
 c000000004CC1EEE2000000000000038D
@@ -808,7 +923,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies309897612#309897612#0(0"0(0#1#0"8644722304#0"0#
+lSLF07#2@18"Check dependencies309899059#309899059#0(0"0(0#1#0"8680187648#0"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309895907.668128
@@ -822,6 +937,25 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@126"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m309895907#309895907#0(0"0(0#0#118"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m8717046144#2599"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899048.331667
+e309899048.830351
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@126"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m309899048#309899048#0(0"0(0#0#118"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m8653841632#2698"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalkAppDelegate.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation-10D63C5500FDDE3F.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/BasicAnimation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation-4B81FF5D936CEF58.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/BasicAnimation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309894564.779340
@@ -848,6 +982,22 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@119"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../BasicAnimation.m309747572#309747572#0(0"0(0#0#111"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../BasicAnimation.m8692753408#2582"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../BasicAnimation.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899037.028693
+e309899037.291318
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@116"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m309899037#309899037#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m8712149760#2678"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/BasicAnimation.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/BasicAnimation.o"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/CA360AppDelegate.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CA360AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -945,6 +1095,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@116"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m309841689#309841689#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m8708363008#2579"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o"0#
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899035.546152
+e309899036.441705
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@116"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m309899035#309899036#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m8715916192#2678"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ChangePosition.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ChangePosition.o"0#
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/CodeSamplesViewController.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/CodeSamplesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
@@ -961,6 +1124,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@116"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m309826794#309826796#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m8710681856#2579"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o"0#
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899036.642111
+e309899036.850749
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@116"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m309899036#309899036#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m8721548640#2678"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/FlipTransition.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o"0#
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309826980.349393
 e309826981.224645
@@ -973,6 +1149,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@110"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m309826980#309826981#0(0"0(0#0#102"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m8718561376#2567"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899036.524203
+e309899036.641987
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@110"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m309899036#309899036#0(0"0(0#0#102"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m8725011616#2666"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrameAnimation.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../KeyFrameAnimation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309763333.770834
@@ -1026,6 +1215,41 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@118"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m309897527#309897527#0(0"0(0#0#110"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m8711276256#2583"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o"0#
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899036.980914
+e309899037.293474
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@118"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m309899036#309899037#0(0"0(0#0#110"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m8716559424#2682"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController-53C87897910BD046.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController-AE1547FE61E67666.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899037.293598
+e309899037.483789
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@120"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m309899037#309899037#0(0"0(0#0#112"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m8716547488#2686"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/RootViewController.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o"0#
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309686316.465249
 e309686316.673596
@@ -1051,6 +1275,28 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@112"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RotateAroundAnchor.m309890413#309890413#0(0"0(0#0#104"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RotateAroundAnchor.m8643804832#2579"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RotateAroundAnchor.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RotateAroundAnchor.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager-44CB36EBF3FBF048.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager-D46310F360E2BE6B.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SampleManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899037.392764
+e309899037.660063
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@115"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m309899037#309899037#0(0"0(0#0#107"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m8712262752#2676"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SampleManager.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SampleManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309897609.594051
@@ -1078,6 +1324,25 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@111"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m309895458#309895458#0(0"0(0#0#103"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m8714589248#2569"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o"0#
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899036.808496
+e309899036.980695
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@111"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m309899036#309899036#0(0"0(0#0#103"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m8718393184#2668"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetCenter.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity-35CDF54056EC104A.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity-BBF75C2DEE65730E.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309895440.974873
 e309895441.152710
@@ -1091,6 +1356,22 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@115"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m309895440#309895441#0(0"0(0#0#107"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m8714032160#2574"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../SetOpacity.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o"0#
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899037.483895
+e309899037.686349
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@112"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m309899037#309899037#0(0"0(0#0#104"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m8619636736#2670"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetOpacity.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o"0#
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309889260.347396
 e309889263.318821
@@ -1103,6 +1384,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@114"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m309889260#309889263#0(0"0(0#0#106"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m8723483744#2575"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899036.850859
+e309899037.028426
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@114"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m309899036#309899037#0(0"0(0#0#106"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m8699572416#2674"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/SetTransform.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../Classes/ShadowPath.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -1120,6 +1414,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@112"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m309895907#309895908#0(0"0(0#0#104"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m8698911328#2571"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o"0#
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899036.441853
+e309899036.808392
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@112"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m309899036#309899036#0(0"0(0#0#104"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m8645457344#2670"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/ShadowPath.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/ShadowPath.o"0#
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../StickyNote.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309811852.490583
 e309811852.580232
@@ -1132,6 +1439,22 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@115"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../StickyNote.m309811852#309811852#0(0"0(0#0#107"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../StickyNote.m8706494496#2574"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/../StickyNote.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o"0#
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899037.660167
+e309899037.773142
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@112"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m309899037#309899037#0(0"0(0#0#104"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m8720820704#2670"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/StickyNote.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o"0#
 
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/StickyNote.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309685683.119704
@@ -1214,6 +1537,28 @@ lSLF07#2@126"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Anim
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/UIKitNestedAnimations.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/UIKitNestedAnimations.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main-B9843B6026D6EFA4.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main-C4035E87C4E4FF59.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899037.291429
+e309899037.392655
+r1
+xCompileC
+xbuild/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@106"Compile /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m309899037#309899037#0(0"0(0#0#98"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m8722464256#2658"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/main.m" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o"0#
+
 CCompileC build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309811852.101000
 e309811852.219744
@@ -1275,6 +1620,14 @@ r1
 xCompileXIB
 x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.xib
 lSLF07#2@31"CompileXIB Classes/KeyFrame.xib309771130#309771131#0(0"0(0#0#104"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.xib8653215584#721"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/KeyFrame.nib" "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/KeyFrame.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainWindow.xib"
+s309898878.302463
+e309898880.388397
+r1
+xCompileXIB
+x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainWindow.xib
+lSLF07#2@33"CompileXIB Classes/MainWindow.xib309898878#309898880#0(0"0(0#0#106"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainWindow.xib8615270272#725"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/MainWindow.nib" "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/NestedAnimations.xib"
 s309897491.985617
@@ -1385,32 +1738,64 @@ xmeiTankSm.png
 lSLF07#2@18"Copy meiTankSm.png309470973#309470973#0(0"0(0#0#97"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/meiTankSm.png8649204352#604"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/meiTankSm.png" "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app"0#
 
 CGenerateDSYMFile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app.dSYM" "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk"
-s309897609.820588
-e309897609.872524
+s309899049.196135
+e309899049.406757
 r1
 xGenerateDSYMFile
 x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app.dSYM
 x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk
-lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/AnimationTalk.app.dSYM build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk309897609#309897609#0(0"0(0#0#143"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk8715242080#542"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app.dSYM"0#
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/AnimationTalk.app.dSYM build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk309899049#309899049#0(0"0(0#0#143"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk8707831072#542"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk" -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app.dSYM"0#
 
 CLd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk" normal i386
-s309897609.779100
-e309897609.820477
+s309899048.830464
+e309899049.195987
 r1
 xLd
 x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk
 xnormal
 xi386
-lSLF07#2@148"Link /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk309897609#309897609#0(0"0(0#0#0"8718131840#1187"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" -filelist "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalk.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk"0#
+lSLF07#2@148"Link /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk309899048#309899049#0(0"0(0#0#0"8715975904#1192"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" -filelist "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalk.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/AnimationTalk"0#
 
 CProcessInfoPlistFile "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist" AnimationTalk-Info.plist
-s309470973.319198
-e309470973.344574
+s309898990.669154
+e309898990.705502
 r1
 xProcessInfoPlistFile
 x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist
 xAnimationTalk-Info.plist
-lSLF07#2@32"Process AnimationTalk-Info.plist309470973#309470973#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk-Info.plist8649349152#638"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AnimationTalk-Info.plist -genpkginfo "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist"0#
+lSLF07#2@32"Process AnimationTalk-Info.plist309898990#309898990#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk-Info.plist8703086752#638"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AnimationTalk-Info.plist -genpkginfo "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app/Info.plist"0#
+
+CProcessPCH /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-bvnydrlzenqnhsfgzlyyghexrjev/AnimationTalk_Prefix.pch.gch AnimationTalk_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309898913.111123
+e309898913.158841
+r0
+xProcessPCH
+x/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-bvnydrlzenqnhsfgzlyyghexrjev/AnimationTalk_Prefix.pch.gch
+xAnimationTalk_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@35"Precompile AnimationTalk_Prefix.pch309898913#309898913#0(417"i686-apple-darwin10-gcc-4.2.1: /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1309898913#18446744073709551615#0#0(1@0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch8716285120#2390"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch" -o /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-bvnydrlzenqnhsfgzlyyghexrjev/AnimationTalk_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-csvljtukwsgspeelkrcolqzbdkry/AnimationTalk_Prefix.pch.gch AnimationTalk_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s309898990.710941
+e309898990.745722
+r0
+xProcessPCH
+x/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-csvljtukwsgspeelkrcolqzbdkry/AnimationTalk_Prefix.pch.gch
+xAnimationTalk_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin10-llvm-gcc-4.2: /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch: No such file or directory
+oi686-apple-darwin10-llvm-gcc-4.2: warning: '-x objective-c-header' after last input file has no effect
+oi686-apple-darwin10-llvm-gcc-4.2: no input files
+lSLF07#2@35"Precompile AnimationTalk_Prefix.pch309898990#309898990#0(431"i686-apple-darwin10-llvm-gcc-4.2: /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch: No such file or directoryi686-apple-darwin10-llvm-gcc-4.2: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-llvm-gcc-4.2: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 failed with exit code 11(4@108"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 failed with exit code 1309898990#18446744073709551615#0#0(1@0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch8710625568#2489"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch" -o /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-csvljtukwsgspeelkrcolqzbdkry/AnimationTalk_Prefix.pch.gch1#
 
 CProcessPCH /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch.gch AnimationTalk_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s309470973.699869
@@ -1425,11 +1810,24 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@35"Precompile AnimationTalk_Prefix.pch309470973#309470974#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch8624082688#2390"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch" -o /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fuzqvramsvleclbvkuehaapxkvea/AnimationTalk_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch.gch AnimationTalk_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s309899027.752738
+e309899035.500502
+r1
+xProcessPCH
+x/var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch.gch
+xAnimationTalk_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@35"Precompile AnimationTalk_Prefix.pch309899027#309899035#0(0"0(0#0#108"/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch8665778080#2489"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-generated-files.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-own-target-headers.hmap" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-all-target-headers.hmap" -iquote "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/AnimationTalk-project-headers.hmap" "-F/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/include" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources/i386" "-I/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch" -o /var/folders/hc/hcxDrGrHFNKMp9w3j6Mmpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTalk_Prefix-fxaappiwdhihozawluqymqmfewnp/AnimationTalk_Prefix.pch.gch0#
+
 CTouch "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app"
-s309897609.872617
-e309897609.875365
+s309899049.406848
+e309899049.409492
 r1
 xTouch
 x/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app
-lSLF07#2@135"Touch /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app309897609#309897609#0(0"0(0#0#0"8711390240#378"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app"0#
+lSLF07#2@135"Touch /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app309899049#309899049#0(0"0(0#0#0"8722366976#378"    cd "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/Debug-iphonesimulator/AnimationTalk.app"0#
 

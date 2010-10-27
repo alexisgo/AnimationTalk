@@ -195,7 +195,7 @@
 		fRef = 1636497012769B570078AFE1 /* KeyFrame.h */;
 		name = "KeyFrame.h: 17";
 		rLen = 0;
-		rLoc = 1388;
+		rLoc = 1367;
 		rType = 0;
 		vrLen = 482;
 		vrLoc = 0;
@@ -313,7 +313,7 @@
 		fRef = 1636497012769B570078AFE1 /* KeyFrame.h */;
 		name = "KeyFrame.h: 25";
 		rLen = 0;
-		rLoc = 1496;
+		rLoc = 1475;
 		rType = 0;
 		vrLen = 524;
 		vrLoc = 0;
@@ -1870,7 +1870,7 @@
 	};
 	161018C712787CE300BFB705 /* SetTransform.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {928, 546}}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 533}}";
 			sepNavSelRange = "{481, 5}";
 			sepNavVisRange = "{0, 1227}";
 		};
@@ -2970,7 +2970,7 @@
 		fRef = 1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */;
 		name = "AnimationTalkAppDelegate.h: 10";
 		rLen = 0;
-		rLoc = 172;
+		rLoc = 1157;
 		rType = 0;
 		vrLen = 461;
 		vrLoc = 0;
@@ -3363,6 +3363,169 @@
 		vrLen = 1282;
 		vrLoc = 0;
 	};
+	16101ADA1278AE0100BFB705 /* AnimationTalk_Prefix.pch */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = AnimationTalk_Prefix.pch;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/AnimationTalk_Prefix.pch";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 386}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	16101ADC1278AE0100BFB705 /* BasicAnimation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 1326}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{964, 1182}";
+		};
+	};
+	16101ADD1278AE0100BFB705 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 386}}";
+			sepNavSelRange = "{354, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	16101ADF1278AE0100BFB705 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 416}}";
+			sepNavSelRange = "{976, 0}";
+			sepNavVisRange = "{3, 1284}";
+		};
+	};
+	16101AF61278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 161018C712787CE300BFB705 /* SetTransform.h */;
+		name = "SetTransform.h: 12";
+		rLen = 5;
+		rLoc = 481;
+		rType = 0;
+		vrLen = 1227;
+		vrLoc = 0;
+	};
+	16101AF71278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADF1278AE0100BFB705 /* RootViewController.h */;
+		name = "RootViewController.h: 20";
+		rLen = 0;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 3;
+	};
+	16101AF81278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1636497112769B570078AFE1 /* KeyFrame.m */;
+		name = "KeyFrame.m: 21";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	16101AF91278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1636497012769B570078AFE1 /* KeyFrame.h */;
+		name = "KeyFrame.h: 29";
+		rLen = 0;
+		rLoc = 1214;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 36;
+	};
+	16101AFA1278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADC1278AE0100BFB705 /* BasicAnimation.m */;
+		name = "BasicAnimation.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 964;
+	};
+	16101AFB1278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADD1278AE0100BFB705 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	16101AFC1278AE8F00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADD1278AE0100BFB705 /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	16101B051278AEF500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADD1278AE0100BFB705 /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	16101B061278AEF500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADA1278AE0100BFB705 /* AnimationTalk_Prefix.pch */;
+		name = "AnimationTalk_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	16101B071278AEF500BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADA1278AE0100BFB705 /* AnimationTalk_Prefix.pch */;
+		name = "AnimationTalk_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	16101B0D1278AF2D00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16101ADD1278AE0100BFB705 /* main.m */;
+		name = "main.m: 16";
+		rLen = 0;
+		rLoc = 354;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	16101B0E1278AF2D00BFB705 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "CABasics.h: No such file or directory";
+		fRef = 1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 25;
+		rType = 1;
+	};
+	16101B0F1278AF2D00BFB705 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */;
+		name = "AnimationTalkAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 1179;
+		rType = 0;
+		vrLen = 1336;
+		vrLoc = 0;
+	};
 	162089C5127226620033B511 /* AnimationTalk */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -3435,7 +3598,27 @@
 			sepNavVisRange = "{877, 881}";
 		};
 	};
+	16208A2C127226AE0033B511 /* meiInTank.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = meiInTank.png;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/meiInTank.png";
+		sourceTree = "<absolute>";
+	};
+	16208A2D127226AE0033B511 /* meiTankSm.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = meiTankSm.png;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/meiTankSm.png";
+		sourceTree = "<absolute>";
+	};
 	16208A4812724B150033B511 /* SetOpacity.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SetOpacity.h;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SetOpacity.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 494}}";
 			sepNavSelRange = "{217, 0}";
@@ -3444,6 +3627,12 @@
 		};
 	};
 	16208A4912724B150033B511 /* SetOpacity.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SetOpacity.m;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SetOpacity.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 1027}}";
 			sepNavSelRange = "{1553, 0}";
@@ -3529,6 +3718,13 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
+	163645D8127546B20078AFE1 /* floorSmall.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = floorSmall.png;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/floorSmall.png";
+		sourceTree = "<absolute>";
+	};
 	163645E3127547420078AFE1 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 16208A2D127226AE0033B511 /* meiTankSm.png */;
@@ -3542,6 +3738,12 @@
 		fRef = 163645D8127546B20078AFE1 /* floorSmall.png */;
 	};
 	163645F412754F790078AFE1 /* StickyNote.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = StickyNote.h;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/StickyNote.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 533}}";
 			sepNavSelRange = "{1018, 0}";
@@ -3550,6 +3752,12 @@
 		};
 	};
 	163645F512754F790078AFE1 /* StickyNote.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = StickyNote.m;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/StickyNote.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1146, 1079}}";
 			sepNavSelRange = "{1469, 0}";
@@ -3557,6 +3765,12 @@
 		};
 	};
 	163646D412756BDD0078AFE1 /* RootViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = RootViewController.h;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 416}}";
 			sepNavSelRange = "{885, 0}";
@@ -3564,6 +3778,12 @@
 		};
 	};
 	163646D512756BDD0078AFE1 /* RootViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = RootViewController.m;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/RootViewController.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {964, 1040}}";
 			sepNavSelRange = "{1479, 0}";
@@ -3571,6 +3791,12 @@
 		};
 	};
 	163646D812756BDE0078AFE1 /* SampleManager.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SampleManager.h;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SampleManager.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 624}}";
 			sepNavSelRange = "{1199, 20}";
@@ -3578,6 +3804,12 @@
 		};
 	};
 	163646D912756BDE0078AFE1 /* SampleManager.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SampleManager.m;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/SampleManager.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 1326}}";
 			sepNavSelRange = "{1229, 0}";
@@ -3641,6 +3873,12 @@
 		state = 1;
 	};
 	163647B01276062E0078AFE1 /* BasicAnimation.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = BasicAnimation.h;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/BasicAnimation.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 468}}";
 			sepNavSelRange = "{64, 1097}";
@@ -3648,6 +3886,12 @@
 		};
 	};
 	163647B11276062E0078AFE1 /* BasicAnimation.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BasicAnimation.m;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/BasicAnimation.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {928, 1365}}";
 			sepNavSelRange = "{396, 0}";
@@ -3669,7 +3913,7 @@
 		fRef = 1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */;
 		name = "AnimationTalkAppDelegate.h: 14";
 		rLen = 0;
-		rLoc = 269;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 496;
 		vrLoc = 0;
@@ -3852,16 +4096,16 @@
 	};
 	1636497012769B570078AFE1 /* KeyFrame.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {964, 611}}";
-			sepNavSelRange = "{1156, 0}";
-			sepNavVisRange = "{0, 1278}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 533}}";
+			sepNavSelRange = "{1214, 0}";
+			sepNavVisRange = "{36, 1306}";
 		};
 	};
 	1636497112769B570078AFE1 /* KeyFrame.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {928, 1040}}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 1066}}";
 			sepNavSelRange = "{457, 0}";
-			sepNavVisRange = "{337, 962}";
+			sepNavVisRange = "{0, 769}";
 		};
 	};
 	1636499B12769E7D0078AFE1 /* PBXTextBookmark */ = {
@@ -3885,6 +4129,12 @@
 		vrLoc = 726;
 	};
 	163649F71276A1D90078AFE1 /* MainView.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = MainView.h;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {964, 411}}";
 			sepNavSelRange = "{92, 0}";
@@ -3892,6 +4142,12 @@
 		};
 	};
 	163649F81276A1D90078AFE1 /* MainView.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MainView.m;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/Classes/MainView.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {964, 611}}";
 			sepNavSelRange = "{180, 0}";
@@ -3943,7 +4199,7 @@
 		fRef = 1636497012769B570078AFE1 /* KeyFrame.h */;
 		name = "KeyFrame.h: 17";
 		rLen = 0;
-		rLoc = 1388;
+		rLoc = 1367;
 		rType = 0;
 		vrLen = 482;
 		vrLoc = 0;
@@ -3970,9 +4226,9 @@
 	};
 	1D3623240D0F684500981E51 /* AnimationTalkAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {928, 507}}";
-			sepNavSelRange = "{2, 0}";
-			sepNavVisRange = "{0, 1256}";
+			sepNavIntBoundsRect = "{{0, 0}, {928, 494}}";
+			sepNavSelRange = "{1179, 0}";
+			sepNavVisRange = "{0, 1336}";
 		};
 	};
 	1D3623250D0F684500981E51 /* AnimationTalkAppDelegate.m */ = {
@@ -4400,6 +4656,19 @@
 			16101AD71278AA1500BFB705 /* PBXTextBookmark */ = 16101AD71278AA1500BFB705 /* PBXTextBookmark */;
 			16101AD81278AA1500BFB705 /* PBXTextBookmark */ = 16101AD81278AA1500BFB705 /* PBXTextBookmark */;
 			16101AD91278AA1500BFB705 /* PBXTextBookmark */ = 16101AD91278AA1500BFB705 /* PBXTextBookmark */;
+			16101AF61278AE8F00BFB705 /* PBXTextBookmark */ = 16101AF61278AE8F00BFB705 /* PBXTextBookmark */;
+			16101AF71278AE8F00BFB705 /* PBXTextBookmark */ = 16101AF71278AE8F00BFB705 /* PBXTextBookmark */;
+			16101AF81278AE8F00BFB705 /* PBXTextBookmark */ = 16101AF81278AE8F00BFB705 /* PBXTextBookmark */;
+			16101AF91278AE8F00BFB705 /* PBXTextBookmark */ = 16101AF91278AE8F00BFB705 /* PBXTextBookmark */;
+			16101AFA1278AE8F00BFB705 /* PBXTextBookmark */ = 16101AFA1278AE8F00BFB705 /* PBXTextBookmark */;
+			16101AFB1278AE8F00BFB705 /* PBXTextBookmark */ = 16101AFB1278AE8F00BFB705 /* PBXTextBookmark */;
+			16101AFC1278AE8F00BFB705 /* PBXTextBookmark */ = 16101AFC1278AE8F00BFB705 /* PBXTextBookmark */;
+			16101B051278AEF500BFB705 /* PBXTextBookmark */ = 16101B051278AEF500BFB705 /* PBXTextBookmark */;
+			16101B061278AEF500BFB705 /* PBXTextBookmark */ = 16101B061278AEF500BFB705 /* PBXTextBookmark */;
+			16101B071278AEF500BFB705 /* PBXTextBookmark */ = 16101B071278AEF500BFB705 /* PBXTextBookmark */;
+			16101B0D1278AF2D00BFB705 /* PBXTextBookmark */ = 16101B0D1278AF2D00BFB705 /* PBXTextBookmark */;
+			16101B0E1278AF2D00BFB705 /* XCBuildMessageTextBookmark */ = 16101B0E1278AF2D00BFB705 /* XCBuildMessageTextBookmark */;
+			16101B0F1278AF2D00BFB705 /* PBXTextBookmark */ = 16101B0F1278AF2D00BFB705 /* PBXTextBookmark */;
 			16208AE5127253BE0033B511 = 16208AE5127253BE0033B511 /* PBXTextBookmark */;
 			163645E3127547420078AFE1 = 163645E3127547420078AFE1 /* PBXBookmark */;
 			163645E4127547420078AFE1 = 163645E4127547420078AFE1 /* PBXBookmark */;
@@ -4436,6 +4705,12 @@
 		};
 	};
 	32CA4F630368D1EE00C91783 /* AnimationTalk_Prefix.pch */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = AnimationTalk_Prefix.pch;
+		path = "/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/AnimationTalk_Prefix.pch";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {964, 393}}";
 			sepNavSelRange = "{0, 0}";

@@ -1,5 +1,5 @@
 /*
-//  KeyFrame.h
+//  BasicAnimation.h
 //  AnimationTalk
 //
  The MIT License
@@ -25,22 +25,14 @@
  THE SOFTWARE.
  */
 
+
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
 
-@interface KeyFrame : UIViewController {
-	IBOutlet UISwitch *cubicSwitch;
-	IBOutlet UIView *point1;
-	IBOutlet UIView *point2;
-	IBOutlet UIView *point3;
-	IBOutlet UIView *point4;
-	
-	CALayer *spriteLayer;
 
+@interface BasicAnimation : UIViewController {
+	UIImageView *meiTheCat;
+	CALayer *meiCatLayer;
 }
-
-@property (nonatomic, retain) CALayer *spriteLayer;
-
--(IBAction) connectTheDots:(id)sender;
 
 @end
