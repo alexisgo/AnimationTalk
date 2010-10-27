@@ -26,15 +26,16 @@
 
 #import "SampleManager.h"
 #import <objc/runtime.h>
-#import "UIKitAnimations.h"
-#import "CABasics.h"
-#import "KeyFrameAnimation.h"
+#import "SetOpacity.h"
 #import "StickyNote.h"
 #import "BasicAnimation.h"
 #import "ChangePosition.h"
 #import "ShadowPath.h"
 #import "KeyFrame.h"
 #import "FlipTransition.h"
+#import "SetCenter.h"
+#import "SetTransform.h"
+#import "NestedAnimations.h"
 
 @interface UIViewController (ThisIsHereToAviodACompilerWarning)
 
@@ -47,12 +48,14 @@
 - (id)init {
   self = [super init];
   if (self != nil) {
-    NSArray *uiKit = [NSArray arrayWithObjects:[UIKitAnimations class], [StickyNote class], [FlipTransition class], nil];
+    NSArray *uiKit = [NSArray arrayWithObjects:[SetOpacity class], [UIKitChangePosition class], 
+					  [SetTransform class], [StickyNote class], [FlipTransition class], 
+					  [NestedAnimations class], nil];
     NSArray *caImplicit = [NSArray arrayWithObjects: [ChangePosition class], [ShadowPath class], nil];
-    NSArray *caExplicit = [NSArray arrayWithObjects:[BasicAnimation class], [KeyFrame class], [KeyframeAnimation class], [CABasics class], nil];
+    NSArray *caExplicit = [NSArray arrayWithObjects:[BasicAnimation class], [KeyFrame class], nil];
     
     
-    groups_ = [[NSArray alloc] initWithObjects:@"UIKit Animations",
+    groups_ = [[NSArray alloc] initWithObjects:@"UIView Animations",
                                                @"CA Implicit",
                                                @"CA Explicit",
                                                nil];

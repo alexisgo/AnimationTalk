@@ -7,8 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "KeyFrameAnimation.h"
-#import "UIKitAnimations.h"
+#import "SetOpacity.h"
 #import "CABasics.h"
 #import "StickyNote.h"
 #import "RootViewController.h"

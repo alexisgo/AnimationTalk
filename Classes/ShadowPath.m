@@ -16,7 +16,7 @@
 @implementation ShadowPath
 
 + (NSString *)friendlyName {
-	return @"add Shadow Path to Layer";
+	return @"Add Shadow Path to Layer";
 }
 
 /*

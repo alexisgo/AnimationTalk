@@ -23,7 +23,7 @@
 	StickyNote *stickyNoteVC = [[StickyNote alloc] init];
 	[controllers addObject:stickyNoteVC];
 
-	UIKitAnimations *uikitVC = [[UIKitAnimations alloc] init];
+	SetOpacity *uikitVC = [[SetOpacity alloc] init];
 	[controllers addObject:uikitVC];
 
 	CABasics *caVC = [[CABasics alloc] initWithTab];

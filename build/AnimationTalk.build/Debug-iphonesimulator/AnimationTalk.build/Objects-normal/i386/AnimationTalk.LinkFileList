@@ -1,8 +1,6 @@
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/main.o
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/AnimationTalkAppDelegate.o
-/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrameAnimation.o
-/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/UIKitAnimations.o
-/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/CABasics.o
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetOpacity.o
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/StickyNote.o
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/RootViewController.o
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SampleManager.o
@@ -12,3 +10,6 @@
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/KeyFrame.o
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/MainView.o
 /Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/FlipTransition.o
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetCenter.o
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/SetTransform.o
+/Users/alexisgoldstein/Documents/_livetotry/iphone/iOS Animation Talk/AnimationTalk/build/AnimationTalk.build/Debug-iphonesimulator/AnimationTalk.build/Objects-normal/i386/NestedAnimations.o

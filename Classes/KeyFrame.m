@@ -18,7 +18,7 @@
 @synthesize spriteLayer;
 
 + (NSString *)friendlyName {
-	return @"Keyframe";
+	return @"CAKeyframeAnimation (values)";
 }
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
