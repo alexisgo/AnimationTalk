@@ -1,4 +1,4 @@
-# Sample code created to go along with "Animation in iOS talk" 
+# Sample code created for "Animation in iOS" 
 
 Talk given by Alexis Goldstein at the NYC iPhone developers meetup on 10/27/10 by Alexis Goldstein
 
